@@ -1,0 +1,1 @@
+Evaluate my original prompt and the response. Consider how effective my prompt was for getting a useful result. Suggest three refined prompts.
